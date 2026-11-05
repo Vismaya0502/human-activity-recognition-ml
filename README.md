@@ -28,6 +28,3 @@ The objective is to classify human activities using machine learning algorithms 
 - Matplotlib
 - Scikit-learn
 
-
-## Author
-Machine Learning Coursework Project
